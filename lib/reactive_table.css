@@ -25,13 +25,3 @@
     cursor: pointer;
     color: black;
 }
-
-.reactive-table .fa-sort-asc {
-	position: relative;
-	top: -2px;
-}
-
-.reactive-table .fa-sort-desc {
-	position: relative;
-	top: 2px;
-}
